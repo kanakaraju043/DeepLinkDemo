@@ -20,7 +20,6 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     NSLog(@"Commit added");
-    
 }
 
 /*
