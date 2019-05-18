@@ -1,6 +1,5 @@
 //
 //  AppDelegate.m
-//  DeepLinkDemo
 //  Created by KANAKARAJU GANDREDDI on 11/23/17.
 //
 
